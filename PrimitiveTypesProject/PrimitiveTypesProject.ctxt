@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PrimitiveTypesProject
+comment0.text=\n\ calculates\ your\ monthly\ income\ and\ your\ total\ expenses\ and\ finds\ your\ \n\ saving\ from\ it\n\ \n\ @author\ Srikar\ Ravi\n\ @version\ October\ 7,\ 2020\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ Write\ a\ description\ of\ class\ Book\ here.\n\n\ @author\ Srikar\ Ravi\n\ @version\ October\ 8,\ 2020\n
+comment1.params=numPages\ currentPage
+comment1.target=Book(int,\ int)
+comment2.params=pages1\ pages2\ pages3
+comment2.target=int\ addTotalPages(int,\ int,\ int)
+comment3.params=page1\ page2\ page3
+comment3.target=int\ addPagesread(int,\ int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
